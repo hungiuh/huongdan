@@ -16,6 +16,7 @@ Dưới đây là các bước rất đơn giản để tạo mã Token này.
 ### Bước 2: Tạo Token Mới
 1. Ở góc trên cùng bên phải, bấm vào nút **Generate new token**.
 2. Khi menu xổ xuống, hãy chọn **Generate new token (classic)** *(Tạo token cổ điển)*.
+![Ảnh minh họa tích chọn ô repo](ing/1.png)
 
 > **Lưu ý:** Nếu hệ thống yêu cầu xác nhận mật khẩu hoặc mã xác thực (2FA), bạn hãy nhập vào để tiếp tục.
 
@@ -25,14 +26,16 @@ Trong trang tạo Token, bạn hãy điền các thông tin sau:
 * **Expiration:** Nên chọn `No expiration` (Không bao giờ hết hạn) để bạn không phải tạo lại token sau này.
 * **Select scopes (Cấp quyền):** 
   * Hãy tìm đến dòng có chữ **`repo`** (thường nằm ngay đầu tiên).
-  * **Tích chọn ✅ vào ô vuông chữ `repo`**. Hành động này sẽ tự động tích luôn các ô vuông con bên trong. (Điều này cho phép ứng dụng có quyền tạo và chỉnh sửa repository).
+   ![Ảnh minh họa tích chọn ô repo](ing/2.png)
 
-![Ảnh minh họa tích chọn ô repo](ing/1.png)
+  * **Tích chọn ✅ vào ô vuông chữ `repo`**. Hành động này sẽ tự động tích luôn các ô vuông con bên trong. (Điều này cho phép ứng dụng có quyền tạo và chỉnh sửa repository).
+![Ảnh minh họa tích chọn ô repo](ing/3.png)
 
 ### Bước 4: Hoàn tất và Copy
 1. Cuộn xuống dưới cùng của trang và bấm nút xanh lá cây **Generate token**.
 2. GitHub sẽ hiển thị một chuỗi ký tự dài bắt đầu bằng `ghp_...` (Ví dụ: `ghp_1234567890abcdefghijklmnopqrstuvwx`).
 3. **Copy chuỗi này ngay lập tức** vì GitHub sẽ chỉ hiển thị nó 1 lần duy nhất!
+![Ảnh minh họa tích chọn ô repo](ing/4.png)
 
 ---
 
