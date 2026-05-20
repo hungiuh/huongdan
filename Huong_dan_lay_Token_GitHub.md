@@ -27,7 +27,7 @@ Trong trang tạo Token, bạn hãy điền các thông tin sau:
   * Hãy tìm đến dòng có chữ **`repo`** (thường nằm ngay đầu tiên).
   * **Tích chọn ✅ vào ô vuông chữ `repo`**. Hành động này sẽ tự động tích luôn các ô vuông con bên trong. (Điều này cho phép ứng dụng có quyền tạo và chỉnh sửa repository).
 
-![Ảnh minh họa tích chọn ô repo](https://docs.github.com/assets/cb-30232/mw-1440/images/help/settings/token_scopes.webp)
+![Ảnh minh họa tích chọn ô repo](https://docs.github.com/ing/Screenshot 2026-05-21 023020.png)
 
 ### Bước 4: Hoàn tất và Copy
 1. Cuộn xuống dưới cùng của trang và bấm nút xanh lá cây **Generate token**.
